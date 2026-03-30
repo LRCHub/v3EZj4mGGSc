@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ツバサ・ラ・リベルテ",
+  "base_artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "createdAt": "2026-03-30T13:27:52.480640Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ツバサ・ラ・リベルテ",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": true,
+      "path": "select/01_ツバサ・ラ・リベルテ_蓮ノ空女学院スクールアイドルクラブ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツバサ・ラ・リベルテ",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": false,
+      "path": "select/pl_01_ツバサ・ラ・リベルテ_蓮ノ空女学院スクールアイドルクラブ.txt"
+    }
+  ]
+}
